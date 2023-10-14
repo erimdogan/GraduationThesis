@@ -1,0 +1,13 @@
+train: C:\GT\dataset\train
+val: C:\GT\dataset\valid
+test: C:\GT\dataset\test
+
+nc: 1
+names: ['circular-object']
+
+roboflow:
+  workspace: graduationthesis
+  project: graduationthesis
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/graduationthesis/graduationthesis/dataset/1
